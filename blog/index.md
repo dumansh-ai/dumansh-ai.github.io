@@ -2,6 +2,7 @@
 layout: default
 title: Research Blog
 permalink: /blog/
+nav_order: 2
 ---
 
 # Research Blog
