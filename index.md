@@ -1,3 +1,9 @@
+---
+layout: default
+title: Home
+permalink: /
+---
+
 # Duman Shrestha
 ### Physics Graduate • Aspiring AI Research Engineer
 
