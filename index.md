@@ -1,4 +1,4 @@
-
+# Duman Shrestha
 ### Physics Graduate • Aspiring AI Research Engineer
 
 Welcome to my portfolio. I am an MS Physics graduate transitioning into Research on Artificial Intelligence. 
