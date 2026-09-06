@@ -10,7 +10,7 @@ TL;DR
 
 - **Conceptual Conflation:** Current AI policy frameworks (such as Bill Gates' proposal) treat AI as a monolithic continuum, conflating bounded pattern-recognition models (Phase 2) with unbounded, stateful agentic runtimes (Phase 3).
 
-- **Locus of Risk:* Existential alignment hazards, instrumental convergence, and autonomous loss-of-control stem directly from the execution layer (recursive scaffolding, memory loops, and state-altering tool access) rather than static base model weights or FLOP thresholds.
+- **Locus of Risk:** Existential alignment hazards, instrumental convergence, and autonomous loss-of-control stem directly from the execution layer (recursive scaffolding, memory loops, and state-altering tool access) rather than static base model weights or FLOP thresholds.
 
 - **Targeted Governance:** Effective regulation should focus on runtime software security bounds—including process sandboxing, deterministic halt limits, least-privilege tool access, and human-in-the-loop checkpoints—mitigating catastrophic agentic risks without stifling harmless Phase 2 optimization.
 ---
