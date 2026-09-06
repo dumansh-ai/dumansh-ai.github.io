@@ -4,6 +4,16 @@ title: Blog
 permalink: /blog/
 nav_order: 2
 ---
+
+# A Three-Phase Ontology of AI Risk: Why Policy Must Target Scaffolding Over Model Weights
+TL;DR
+
+- **Conceptual Conflation:** Current AI policy frameworks (such as Bill Gates' proposal) treat AI as a monolithic continuum, conflating bounded pattern-recognition models (Phase 2) with unbounded, stateful agentic runtimes (Phase 3).
+
+- **Locus of Risk:* Existential alignment hazards, instrumental convergence, and autonomous loss-of-control stem directly from the execution layer (recursive scaffolding, memory loops, and state-altering tool access) rather than static base model weights or FLOP thresholds.
+
+- **Targeted Governance:** Effective regulation should focus on runtime software security bounds—including process sandboxing, deterministic halt limits, least-privilege tool access, and human-in-the-loop checkpoints—mitigating catastrophic agentic risks without stifling harmless Phase 2 optimization.
+---
 In his essay "A Turbulent AI Era and Critical Choices to Make," Bill Gates outlines both the transformative promises and potential societal disruptions of artificial intelligence. While his call for proactive policy is timely, his framing suffers from a fundamental conceptual conflation: he treats the broader spectrum of artificial intelligence as a single technological continuum subject to the same category of risks.  
 Specifically, Gates pairs the low-risk, high-utility benefits of narrow specialized models (such as automated medical diagnostics) with the systemic threats of general autonomous systems (such as macro labor market disruption and alignment risks), without establishing a structural boundary between them. Without a clear ontology separating bounded pattern-recognition systems from unbounded agentic loops, regulators risk drafting policy that stifles harmless specialized optimization while missing the actual vectors of agentic risk.  
 Below is a framework categorizing AI development into three distinct operational phases based on agency, state space, and capability boundaries.
