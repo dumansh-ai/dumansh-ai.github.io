@@ -4,16 +4,15 @@ title: Home
 permalink: /
 ---
 
-<div align="center">
 
-**Duman Shrestha**  
-Kathmandu, Nepal \| +977 970 862 9158 \| `dumansh.ai@gmail.com`
 
-</div>
+# Duman Shrestha
+Kathmandu, Nepal | +977 970 862 9158 | `dumansh.ai@gmail.com`
+
 
 ------------------------------------------------------------------------
 
-# Research Interests
+## Research Interests
 
 - **Core Fields:** Explainable AI (XAI), Mechanistic Interpretability,
   AI Safety and Alignment, Singular Learning Theory
@@ -24,7 +23,7 @@ Kathmandu, Nepal \| +977 970 862 9158 \| `dumansh.ai@gmail.com`
 
 ------------------------------------------------------------------------
 
-# Technical Skills
+## Technical Skills
 
 - **Languages:** Python (Fluent), SQL, Bash, C/C++, R, MATLAB
 
@@ -35,9 +34,9 @@ Kathmandu, Nepal \| +977 970 862 9158 \| `dumansh.ai@gmail.com`
 
 ------------------------------------------------------------------------
 
-# Education
+## Education
 
-## Madan Bhandari University of Science Technology — Nepal
+### Madan Bhandari University of Science Technology — Nepal
 
 **MS in Artificial Intelligence** \| Nov 2026 -
 
@@ -45,7 +44,7 @@ Kathmandu, Nepal \| +977 970 862 9158 \| `dumansh.ai@gmail.com`
 
 - Research focus on AI Safety and Interpretabilty
 
-## University of South Florida — Tampa, FL, USA
+### University of South Florida — Tampa, FL, USA
 
 **MS in Physics** \| 2019 - 2021
 
@@ -54,7 +53,7 @@ Kathmandu, Nepal \| +977 970 862 9158 \| `dumansh.ai@gmail.com`
 - **Relevant Coursework:** Statistical Mechanics, Quantum Mechanics,
   Machine Learning, Computational Physics
 
-## Tribhuvan University, Pulchowk Campus — Lalitpur, Nepal
+### Tribhuvan University, Pulchowk Campus — Lalitpur, Nepal
 
 **Bachelor of Electrical Engineering** \| 2011 - 2015
 
@@ -66,9 +65,9 @@ Kathmandu, Nepal \| +977 970 862 9158 \| `dumansh.ai@gmail.com`
 
 ------------------------------------------------------------------------
 
-# Research & Technical Experience 
+## Research & Technical Experience 
 
-## Graduate Assistant — University of South Florida, USA \| 2019 – 2021
+### Graduate Assistant — University of South Florida, USA \| 2019 – 2021
 
 - **Research Contributions:**
 
@@ -95,7 +94,7 @@ Kathmandu, Nepal \| +977 970 862 9158 \| `dumansh.ai@gmail.com`
   - Mentored students through complex analytical problem-solving during
     weekly office hours.
 
-## Python Developer — Finra, Rockville, MD, USA \| 2022 – 2023
+### Python Developer — Finra, Rockville, MD, USA \| 2022 – 2023
 
 - Designed and automated an ETL (Extract, Transform, Load) pipeline that
   ingested heterogeneous data formats (CSV, JSON, XML), validated
@@ -109,7 +108,7 @@ Kathmandu, Nepal \| +977 970 862 9158 \| `dumansh.ai@gmail.com`
   guides, ensuring long-term maintainability and ease of onboarding for
   engineering teams.
 
-## Full Stack Web Developer — Insight Workshop, Kathmandu, Nepal \| 2017 – 2018
+### Full Stack Web Developer — Insight Workshop, Kathmandu, Nepal \| 2017 – 2018
 
 - Co-developed a robust full-stack web application for a US-based
   healthcare provider using Django, HTML5, CSS3, and JavaScript.
